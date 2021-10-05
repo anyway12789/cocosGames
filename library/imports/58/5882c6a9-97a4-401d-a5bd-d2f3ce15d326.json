@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bet_money_nums_0",
+    "texture": "27bfba20-0f7b-4085-8c8f-5f2a6f000d19",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      187,
+      28
+    ],
+    "offset": [
+      -26.5,
+      2
+    ],
+    "originalSize": [
+      240,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

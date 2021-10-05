@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "time_red_0",
+    "texture": "fdf4ba59-0e78-46bf-bce3-faa7f0b00a5f",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      729,
+      116
+    ],
+    "offset": [
+      -75.5,
+      1
+    ],
+    "originalSize": [
+      880,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

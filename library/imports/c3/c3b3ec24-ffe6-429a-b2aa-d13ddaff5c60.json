@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "time_gold_0",
+    "texture": "b8c012d7-babf-4158-b4e6-fb60876ae926",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      729,
+      116
+    ],
+    "offset": [
+      -75.5,
+      1
+    ],
+    "originalSize": [
+      880,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

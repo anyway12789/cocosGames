@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "total_money_nums_0",
+    "texture": "7a66b61e-6fc2-4513-9bbb-94ef8adf1155",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      207,
+      28
+    ],
+    "offset": [
+      -16.5,
+      2
+    ],
+    "originalSize": [
+      240,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

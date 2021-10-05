@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_allin",
+    "texture": "01c0c6b1-9e1e-455b-81e1-80a46733278a",
+    "atlas": "",
+    "rect": [
+      8,
+      7,
+      214,
+      92
+    ],
+    "offset": [
+      0,
+      -3
+    ],
+    "originalSize": [
+      230,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

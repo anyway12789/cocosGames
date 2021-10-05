@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_addchip",
+    "texture": "73251230-edcb-4f7a-9a96-3409666e7478",
+    "atlas": "",
+    "rect": [
+      5,
+      6,
+      90,
+      93
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "注释",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "bet_money_nums:  下注时金额显示数字，在确认下注前显示\r\n0=0\r\n1=1\r\n2=2\r\n3=3\r\n4=4\r\n5=5\r\n6=6\r\n7=7\r\n8=8\r\n9=9\r\n.=.\r\n\r\nchip_nums:   筹码上的文字\r\n0=0\r\n1=1\r\n2=2\r\n3=3\r\n4=4\r\n5=5\r\n6=6\r\n7=7\r\n8=8\r\n9=9\r\nk=k\r\nm=m\r\n\r\nperiod_nums:  期号\r\n0=0\r\n1=1\r\n2=2\r\n3=3\r\n4=4\r\n5=5\r\n6=6\r\n7=7\r\n8=8\r\n9=9\r\n#=#\r\n\r\nresult:  开奖结果\r\n1=11\r\n2=12\r\n3=13\r\n4=14\r\n5=15\r\n6=16\r\n7=17\r\n8=18\r\na=3\r\nb=4\r\nc=5\r\nd=6\r\ne=7\r\nf=8\r\ng=9\r\nh=10\r\n\r\ntime_gold:  倒计时>10s时\r\n0=0\r\n1=1\r\n2=2\r\n3=3\r\n4=4\r\n5=5\r\n6=6\r\n7=7\r\n8=8\r\n9=9\r\n\r\ntime_red:  倒计时<10s时\r\n0=0\r\n1=1\r\n2=2\r\n3=3\r\n4=4\r\n5=5\r\n6=6\r\n7=7\r\n8=8\r\n9=9\r\n\r\ntotal_money:  所有玩家下注时的金额数字\r\n0=0\r\n1=1\r\n2=2\r\n3=3\r\n4=4\r\n5=5\r\n6=6\r\n7=7\r\n8=8\r\n9=9\r\n.=."
+}
